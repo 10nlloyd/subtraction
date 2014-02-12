@@ -1,6 +1,6 @@
 def square(a*b):
-    awnser = a*b
-    return (awnser)
+    answer = a*b
+    return (answer)
     
     print (add(4,4))
     #expected outcome is 16
